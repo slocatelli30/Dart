@@ -8,3 +8,4 @@ git clone indirizzoRepositoryHTTPS .
 
 push = caricare file
 pull = scaricare file
+check out = spostarsi su un branch
