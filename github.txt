@@ -1,0 +1,10 @@
+GitHub
+
+********** DA TERMINALE **********
+
+git clone indirizzoRepositoryHTTPS .
+
+********** AZIONI **********
+
+push = caricare file
+pull = scaricare file
